@@ -32,11 +32,11 @@
     "@typescript-eslint",
     "prettier"
   ],
-  "rules": {
+  "rules": {    
     "camelcase": "off",
     "import/no-duplicates": "off",
     "react/jsx-props-no-spreading": "off",
-    "prettier/prettier": "error",
+    "prettier/prettier": "off",
     "react/react-in-jsx-scope": "off",
     "react/prop-types": "off",
     "jsx-a11y/anchor-is-valid": [
